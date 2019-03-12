@@ -1,13 +1,3 @@
----
-title: "Examining Cars from *eBay Kleinanzeigen*"
-output:
-  html_document:
-    keep_md: true
-  pdf_document: default
-urlcolor: blue
----
-
-
 ## Introduction
 This project examines 50,000 used car/ used car sales data points from the classifieds section of the German eBay website.  The data originates from Kaggle but has been dirtied by Dataquest for purposes of data cleaning.  A few of the dataset variables include:
 
