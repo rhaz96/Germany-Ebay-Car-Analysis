@@ -2,7 +2,7 @@
 
 This project examines 50,000 used car/used car sales data points from the classifieds section of the German eBay website. The objective is to explore trends in advertising listings, as well as car variables like mileage and price.
 
-![alt text](https://ebay-kleinanzeigen.de/static/img/common/logo/logo-ebay-kleinanzeigen-500x500.png)
+![image](https://user-images.githubusercontent.com/43581750/54854466-6188bf00-4cc9-11e9-922b-e9798be96c07.png)
 
 ### Prerequisites
 
